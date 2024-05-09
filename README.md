@@ -22,9 +22,8 @@ Our main objective is to create a reliable model that forecasts the exchange rat
 The workflow is split into 3, separated by roles:
 
 #### Data Engineering
-- Data Collection: Data collected from Google Finance 
-- Data Cleaning: ....
-- Data Storage: ....
+- Data Collection: Data is collected from Google Finance, covering the range from January 1, 2001, to May 5, 2024, for each currency. Afterwards, the data is exported into a CSV file.
+- Data Cleaning:  The data is cleaned by handling missing values and performing differencing on non-stationary data that will be predicted using ARIMA
 #### Data Science
 - Model Development: Created a prediction and forecast to USA, Saudi Arabia, Japan, Korea, Thailand, and Singapore exchange rate using Moving Average, ARIMA, Linear Regression, Deep Learning 
 - Model Optimization: Searching best combination of p,d,q on ARIMA finding best model between Moving Average, ARIMA, Linear Regression, Deep Learning for forecasting exchange rate.
