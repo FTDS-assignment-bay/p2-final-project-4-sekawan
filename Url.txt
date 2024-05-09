@@ -2,3 +2,5 @@ Visualisasi Kurs
 Url : https://public.tableau.com/app/profile/mesayu.puspita/viz/insightfinpro/Dashboard1?publish=yes
 
 Deployment : https://huggingface.co/spaces/amrihakims/CurrenSee
+
+PPT : https://docs.google.com/presentation/d/1hyzGdD_i4jDaENLKrY_FF_98keERQ-MmH4-qjry4xZ8/edit#slide=id.p6
