@@ -13,9 +13,9 @@ Our main objective is to create a reliable model that forecasts the exchange rat
 
 ## Team Members
 - **Aldi** - As Data Scientist and Data Engineer (📝[Github](https://github.com/gedealdi28), 📧[LinkedIn](https://www.linkedin.com/in/gede-aldi-vyacta-pranayena-s-412b741b7))
-- **Amri** - As Data Scientist and Data Engineer (📝[Github](https://github.com/DestrianaR), 📧[LinkedIn](https://www.linkedin.com/in/destriana-ramadani-6425aa284/))
-- **Vania** - As Data Scientist and Data Engineer (📝[Github](https://github.com/DestrianaR), 📧[LinkedIn](https://www.linkedin.com/in/destriana-ramadani-6425aa284/))
-- **Mesayu** - As Data Analyst (📝[Github](https://github.com/DestrianaR), 📧[LinkedIn](https://www.linkedin.com/in/destriana-ramadani-6425aa284/))
+- **Amri** - As Data Scientist and Data Engineer (📝[Github](https://github.com/amrihakim9), 📧[LinkedIn](https://www.linkedin.com/in/muhammad-amri-hakim-0ba675224))
+- **Vania** - As Data Scientist and Data Engineer (📝[Github](https://github.com/vaniaalya14), 📧[LinkedIn](https://www.linkedin.com/in/vania-alya-qonita/))
+- **Mesayu** - As Data Analyst (📝[Github](https://github.com/Mesayu), 📧[LinkedIn](https://www.linkedin.com/in/mesayu-gina-puspita-9a81a1233/))
 
 ## Project Structure
 ### Workflow
@@ -31,3 +31,6 @@ The workflow is split into 3, separated by roles:
 #### Data Analysis
 - Visualization: Created visual time series of every exchange rate
 - Reporting: Create a comprehensive report using your collected findings and insights.
+
+Furthermore, all of our visualisations are also available on [Project Visualization]([https://public.tableau.com/views/FinalProject_17119788212420/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link.) and [Exploratory Data Analysis](https://public.tableau.com/app/profile/elia.oktaviani/viz/FinalProjectEDA_17121230420550/Dashboard2?publish=yes](https://public.tableau.com/app/profile/mesayu.puspita/viz/insightfinpro/Dashboard1?publish=yes))
+
