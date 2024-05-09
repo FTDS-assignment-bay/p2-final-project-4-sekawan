@@ -116,6 +116,7 @@ def run():
             ppnbm = 0
         else :
             st.markdown('<span style="color:orange; font-size:24px;">⚠️Harga barang melebihi dari ketentuan bebas PPN dan PPH. Tolong untuk mengisi form di bawah ini ya 😊</span>', unsafe_allow_html=True)
+            st.markdown('<span style="color:white; font-size:16px;">Reference : https://bcpurwakarta.beacukai.go.id/layanan/btki</span>', unsafe_allow_html=True)
             st.subheader('Tarif Bea Masuk(%)')
             bea_masuk = st.number_input("Masukkan % tarif Bea Masuk sesuai jenis barang", min_value=0)
             st.subheader('Tarif PPN(%)')
