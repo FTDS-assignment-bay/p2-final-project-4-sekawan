@@ -31,5 +31,5 @@ The workflow is split into 3, separated by roles:
 - Visualization: Created visual time series of every exchange rate
 - Reporting: Create a comprehensive report using your collected findings and insights.
 
-Furthermore, all of our visualisations are also available on [Exploratory Data Analysis](https://public.tableau.com/app/profile/elia.oktaviani/viz/FinalProjectEDA_17121230420550/Dashboard2?publish=yes](https://public.tableau.com/app/profile/mesayu.puspita/viz/insightfinpro/Dashboard1?publish=yes))
+Furthermore, all of our visualisations are also available on [Exploratory Data Analysis](https://public.tableau.com/app/profile/mesayu.puspita/viz/insightfinpro/Dashboard1?publish=yes)
 And our deployment can be accessed on [streamlit](https://huggingface.co/spaces/amrihakims/CurrenSee)
